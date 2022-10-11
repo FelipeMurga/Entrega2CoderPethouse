@@ -1,0 +1,260 @@
+body{
+    background-color: rgb(61, 151, 151);
+    width: 100%;
+height: calc(100vh - 100px);
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+justify-content: center;
+align-items: center;
+}
+
+
+.pepe{
+    background-color: gold;
+}
+
+header{
+    background-color: gold;
+}
+
+h1{
+    color: rgb(61, 151, 151);
+text-align: center;
+font-family: helvetica;
+font-size: 40px;
+padding-inline-start: 0%;
+background-color: black;
+}
+
+
+h1 span{
+    color: gold;
+}
+
+ul{
+    position: sticky;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+
+
+    .Paginaa{
+        background-color: gold(255, 255, 255);
+        display: inline-flex
+        
+        }
+    
+    .Paginaa a{
+        border: 1px solid beige;
+        color: gold;
+        text-decoration: none;
+      background-color: rgb(0, 0, 0);
+        font-size: 30px;
+        margin-bottom: 15px;
+        width: 250px;
+        height: 50px;
+        text-align: center;
+        box-shadow: 10px 10px 27px -4px black;
+        -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+        transition: 1s;
+    
+        border: 1px solid beige
+        
+    
+    
+    }
+    
+    .Paginaa a:hover{
+        background-color: aliceblue;
+        color: black;
+        transform: scale(1);
+        width: 300px;
+    }
+    
+    
+    
+    
+    
+    
+    .contactoo{
+        background-color: gold(255, 255, 255);
+        display: inline-flex
+    }
+    
+    .contactoo a{
+        border: 1px solid beige;
+        color: gold;
+        text-decoration: none;
+      background-color: rgb(0, 0, 0);
+        font-size: 30px;
+        margin-bottom: 15px;
+        width: 250px;
+        height: 50px;
+        text-align: center;
+        box-shadow: 10px 10px 27px -4px black;
+        -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+        transition: 1s;
+    }
+    
+    
+    .contactoo a:hover{
+        background-color: aliceblue;
+        color: black;
+        transform: scale(1);    
+        width: 300px;
+    }
+    
+    
+    
+    
+    
+    
+    .inicioo{
+        background-color: gold(255, 255, 255);
+        display: inline-flex
+        
+    }
+    
+    .inicioo a{
+        border: 1px solid beige;
+        color: gold;
+        text-decoration: none;
+      background-color: rgb(0, 0, 0);
+        font-size: 30px;
+        margin-bottom: 15px;
+        width: 250px;
+        height: 50px;
+        text-align: center;
+        box-shadow: 10px 10px 27px -4px black;
+        -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+        transition: 1s;
+    }
+    
+    .inicioo a:hover{
+        background-color: aliceblue;
+        color: black;
+        transform: scale(1);
+        width: 300px;
+    }
+    
+    
+    
+    .compraa{
+        background-color: gold(255, 255, 255);
+        display: inline-flex
+    }
+    
+    .compraa a{
+        border: 1px solid beige;
+        color: gold;
+        text-decoration: none;
+      background-color: rgb(0, 0, 0);
+        font-size: 30px;
+        margin-bottom: 15px;
+        width: 250px;
+        height: 50px;
+        text-align: center;
+        box-shadow: 10px 10px 27px -4px black;
+        -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+        transition: 1s;
+    
+    
+    }
+    
+    .compraa a:hover{
+        background-color: aliceblue;
+        color: black;
+        transform: scale(1);
+        width: 300px;
+    }
+    
+    
+    
+    
+    .registrate{
+        background-color: gold(255, 255, 255);
+        display: inline-flex
+    }
+    
+    .registrate a{
+        border: 1px solid beige;
+        color: gold;
+        text-decoration: none;
+      background-color: rgb(0, 0, 0);
+        font-size: 30px;
+        margin-bottom: 15px;
+        width: 250px;
+        height: 50px;
+        text-align: center;
+        box-shadow: 10px 10px 27px -4px black;
+        -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+        transition: 1s;
+    }
+    
+    .registrate a:hover{
+        background-color: aliceblue;
+        color: black;
+        transform: scale(1);
+        width: 300px;
+    }
+
+
+    h2{
+        color: rgb(61, 151, 151);
+        text-align: center;
+        font-size: 60px;
+    background-color: rgb(0, 0, 0);
+    
+    padding: 500
+    }
+
+    h2 span{
+        color: gold;
+    }
+
+
+
+    .formulario{
+    font-size: 50px; 
+    text-align: center;
+    background-color: gold(255, 255, 255);
+
+
+    }
+
+
+
+    .ingresa{
+        background-color: gold(255, 255, 255);
+        align-items: center;
+        }
+
+    .ingresa a{
+        border: 1px solid beige;
+        color: gold;
+        text-decoration: none;
+      background-color: rgb(0, 0, 0);
+        font-size: 30px;
+        margin-bottom: 15px;
+        width: 250px;
+        height: 50px;
+        text-align: center;
+        box-shadow: 10px 10px 27px -4px black;
+        -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+        transition: 1s;
+        text-align: center;
+    
+        border: 1px solid beige
+    }
+
+
+    .ingresa a:hover{
+        background-color: aliceblue;
+        color: black;
+        transform: scale(1);
+        width: 300px;
+    }

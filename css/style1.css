@@ -1,0 +1,176 @@
+body{
+background-image: url(../img/hombre-irreconocible-vestido-informalmente-usando-telefono-inteligente-trabajo-oficina_1098-20449.jpg);
+width: 100%;
+height: calc(100vh - 100px);
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+
+
+
+h1{
+    color: rgb(61, 151, 151);
+text-align: center;
+font-family: helvetica;
+font-size: 40px;
+padding-inline-start: 0%;
+background-color: black;
+
+
+}
+
+h1 span{
+color: gold;
+}
+
+
+ul{
+    position: sticky;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+h2{
+    color: gold;
+    text-align: center;
+    font-size: 60px;
+background-color: rgb(0, 0, 0);
+
+padding: 500;
+
+}
+
+
+
+.Paginaa{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+}
+
+.Paginaa a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+
+    border: 1px solid beige
+}
+
+.Paginaa a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}
+
+
+
+
+.contactoo{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+}
+
+.contactoo a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+
+    border: 1px solid beige
+}
+
+
+.contactoo a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}
+
+
+.inicioo{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+}
+
+.inicioo a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+
+    border: 1px solid beige
+}
+
+.inicioo a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}
+
+
+.compraa{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+}
+
+.compraa a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+}
+
+.compraa a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}

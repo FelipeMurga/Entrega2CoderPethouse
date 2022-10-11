@@ -1,0 +1,274 @@
+header{
+    color: rgb(0, 0, 0);
+    
+    width: 100%;
+    height: 100%;
+    
+}
+
+h1{
+    color: rgb(61, 151, 151);
+text-align: center;
+font-family: helvetica;
+font-size: 40px;
+padding-inline-start: 0%;
+background-color: black;
+
+}
+
+h1 span{
+color: gold;
+}
+
+
+
+
+
+
+h2{
+    color: gold;
+    text-align: center;
+    font-size: 60px;
+background-color: rgb(0, 0, 0);
+
+padding: 500;
+
+}
+
+
+    
+
+
+
+
+body{
+    width:100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    background-image: url("../img/familia-feliz-con-los-niños-y-el-perro-en-parque-130889197.jpg")
+
+    
+
+
+    
+}
+
+
+
+ul{
+    position: sticky;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.principal{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+    
+    }
+
+.principal a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+
+    border: 1px solid beige
+    
+
+
+}
+
+.principal a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}
+
+
+
+
+
+
+.contactos{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+}
+
+.contactos a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+}
+
+
+.contactos a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);    
+    width: 300px;
+}
+
+
+
+
+
+
+.sesion{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+    
+}
+
+.sesion a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+}
+
+.sesion a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}
+
+
+
+.compra{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+}
+
+.compra a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+
+
+}
+
+.compra a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}
+
+
+
+
+.registrate{
+    background-color: gold(255, 255, 255);
+    display: inline-flex
+}
+
+.registrate a{
+    border: 1px solid beige;
+    color: gold;
+    text-decoration: none;
+  background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 15px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 27px -4px black;
+    -webkit-box-shadow: 10px 10px 27px -4px rgb 000;
+    transition: 1s;
+}
+
+.registrate a:hover{
+    background-color: aliceblue;
+    color: black;
+    transform: scale(1);
+    width: 300px;
+}
+
+
+
+ 
+.imagen1{
+    width: 300px;
+    height: auto;
+    margin: auto;
+display: flex;
+justify-content: right;
+
+}
+
+
+
+
+.insta{
+    width: 50px;
+    height: auto;
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+
+
+.face{
+    width: 50px;
+    height: auto;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+.wasap{
+    width: 50px;
+    height: auto;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+
+
+
