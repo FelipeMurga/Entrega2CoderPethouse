@@ -1,5 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
 body{
-background-image: url(../img/hombre-irreconocible-vestido-informalmente-usando-telefono-inteligente-trabajo-oficina_1098-20449.jpg);
+
 width: 100%;
 height: calc(100vh - 100px);
 background-position: center;
@@ -12,7 +18,13 @@ align-items: center;
 
 }
 
-
+header{
+    position: sticky;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 
 h1{
@@ -173,4 +185,14 @@ padding: 500;
     color: black;
     transform: scale(1);
     width: 300px;
+}
+
+
+
+
+
+.formulario{
+    background-color:rgb(61, 151, 151); ;
+text-align: center;
+margin: 15px;
 }
