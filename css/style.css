@@ -15,6 +15,11 @@ header{
 
 
 
+.fondoindex{
+    background-image: url(../img/familia-feliz-con-los-niños-y-el-perro-en-parque-130889197.jpg);
+}
+
+
 .menu{
     position: sticky;
     padding: 15px;
@@ -410,10 +415,12 @@ justify-content: right;
 /*----------Registrarse ccs-------------*/
 
 
+
 .fondoregistro{
     background: rgb(174,238,237);
-background: radial-gradient(circle, rgba(174,238,237,1) 0%, rgba(224,255,0,1) 100%);
-}
+    background: radial-gradient(circle, rgba(174,238,237,1) 0%, rgba(224,255,0,1) 100%);}
+
+
 
 .formulario-registro {
     width: 400px;
