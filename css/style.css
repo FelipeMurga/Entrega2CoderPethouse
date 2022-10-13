@@ -50,7 +50,7 @@ color: gold;
 
 
 h2{
-    color: gold;
+    color: rgb(61, 151, 151);
     text-align: center;
     font-size: 60px;
 background-color: rgb(0, 0, 0);
@@ -58,6 +58,9 @@ display: inline-block;
 
 
 
+}
+.spanh2{
+    color: gold;
 }
 
 
@@ -88,18 +91,19 @@ body{
 }
 
 h3{
+    text-align: center;
+ 
+}
+
+
+.copete{
+    
     color: rgb(61, 151, 151);
     font-family: helvetica;
     font-size: 20px;
     padding-inline-start: 0%;
     background-color: black;
     display: inline-block;
- 
-}
-
-
-.copete{
-    text-align: center;
 }
 
 
@@ -424,6 +428,7 @@ justify-content: right;
 
 .formulario-registro {
     width: 400px;
+    height: 400px;
     background-color:gold;
     padding: 30px;
     margin: auto;
@@ -485,4 +490,110 @@ justify-content: right;
     margin: 16px;
     font-size: 20px;
      
+}
+
+
+
+
+
+
+
+/*-----------Contacto-------------*/
+
+.formulario-contacto{
+    background: rgb(34,195,191);
+    background: linear-gradient(114deg, rgba(34,195,191,1) 0%, rgba(255,222,97,1) 100%);
+    width: 90%;
+    height: 90%;
+    padding: 30px;
+    margin: 30px;
+    margin-top: 50px;
+    border-radius: 6px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 10px 13px 25px black
+}
+
+
+.formulario-contacto h2{
+    font-size: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+.col-md-4{
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0, 0, 0, 0);
+    padding: 0px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    border: 2px solid rgb(61, 151, 151);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+
+/* .valid-feedback{
+
+} */
+
+
+.form-control{
+    width: 100%;
+    height: 100%;
+    background-color:gold;
+    padding: 0px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    border: 2px solid rgb(61, 151, 151);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.form-select{
+    width: 100%;
+    height: 100%;
+    background-color:gold;
+    padding: 3px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    border: 2px solid rgb(61, 151, 151);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+  
+
+
+
+
+.col-12{
+
+    padding: 3px;
+    text-align: center;
+    color: white;
+}
+
+
+.btn-primary{
+    color: gold;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.form-check{
+    width: 100%;
+    height: 100%;
+color: black;
+    padding: 3px;
+
+    margin-bottom: 15px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
