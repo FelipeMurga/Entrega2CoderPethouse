@@ -86,24 +86,21 @@ body{
     
 }
 
-.copete{
-    text-align: center;
-}
+
 
 h3{
-    text-align: center;
- 
+    background-color: black;
+    padding: 1rem;
+    margin: 1rem;
+color: rgb(61, 151, 151);
+font-size: 45px;
+display: inline-block;
 }
 
 
 .copete{
-    
-    color: rgb(61, 151, 151);
-    font-family: helvetica;
-    font-size: 20px;
-    padding-inline-start: 0%;
-    background-color: black;
-    display: inline-block;
+
+text-align: center;
 }
 
 
@@ -423,12 +420,14 @@ justify-content: right;
 .fondoregistro{
     background: rgb(174,238,237);
     background: radial-gradient(circle, rgba(174,238,237,1) 0%, rgba(224,255,0,1) 100%);}
+    
 
 
 
 .formulario-registro {
     width: 400px;
     height: 400px;
+    line-height: 30px;
     background-color:gold;
     padding: 30px;
     margin: auto;
@@ -436,6 +435,7 @@ justify-content: right;
     border-radius: 6px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-shadow: 10px 13px 25px black
+    
 }
 
 .formulario-registro h5{
@@ -487,7 +487,7 @@ justify-content: right;
     border: none;
     padding: 15px;
     color: white;
-    margin: 16px;
+    margin: 5px;
     font-size: 20px;
      
 }
@@ -597,3 +597,145 @@ color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
+
+
+
+
+
+/* Pagina de compra  */
+
+
+.bodycompra{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/fondaso.jpg);
+
+
+}
+
+
+.contenedor{
+    /* max-width: 300px; */
+    margin: 0;
+    padding: 0;
+
+}
+
+
+h3.nuestros-productos{
+    padding: 2rem;
+    margin: 1rem;
+text-align: center;
+color: gold;
+font-size: 45px;
+
+
+}
+
+
+.productos{
+display: grid;
+grid-template-columns: repeat(1,3fr);
+}
+
+.producto{
+    background-color: rgb(255, 255, 255);
+    margin: 2rem;
+    padding: 2rem;
+}
+
+
+
+.odwalla{
+    background-color: white;
+    /* height: 20rem; */
+    object-fit: contain;
+    padding: 1rem;
+}
+
+
+
+
+.nombre-producto{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.precio-producto{
+    color: black;
+    background-color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2rem;
+    font-weight:500;
+
+}
+
+
+.odwalla img{
+width: 250px;
+height: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+.ken-l img{
+    width: 250px;
+height: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.ganacan img{
+    width: 250px;
+height: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+
+.TopNutrition img{
+    width: 250px;
+height: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+.Exact img{
+    width: 250px;
+height: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+.exellent img{
+    width: 250px;
+height: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
